@@ -9,7 +9,7 @@ import textwrap
 # -------------------------
 # Config - change MODEL_DIR if needed
 # -------------------------
-MODEL_DIR = "/kaggle/input/gpt-2"  # <-- change to your model folder
+MODEL_DIR = "model"  # <-- change to your model folder
 MAX_NEW_TOKENS = 180
 
 # Reduce noisy tokenizer parallelism warnings
